@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="ButtonCalcular">Calcular</string>
+    <string name="TextViewIngresar">Ingrese una constante</string>
+    <string name="TextViewSuma">1: Sumar</string>
+    <string name="TextViewResta">2: Restar</string>
+    <string name="TextViewMulti">3: Multiplicar</string>
+    <string name="TextViewDivi">4: Dividir</string>
+    <string name="TextViewOp">Ingrese la operación</string>
+
+
+    <string name="TextViewNum1">Ingrese Primer Numero</string>
+    <string name="TextViewNum2">Ingrese Segundo Numero</string>
+    <string name="TextViewResul">El resultado es:</string>
+    <string name="TittleW">BIENVENID@</string>
+    <string name="ButtonSumar">SUMAR</string>
+    <string name="TittleSuma">SUMA</string>
+    <string name="ButtonVolver">VOLVER</string>
+
+
+    <string name="TittleResta">RESTA</string>
+    <string name="ButtonRestar">RESTAR</string>
+
+    <string name="TittleMul">MULTIPLICACIÓN</string>
+    <string name="ButtonMul">MULTIPLICAR</string>
+
+    <string name="TittleDiv">DIVISIÓN</string>
+    <string name="ButtonDiv">DIVIDIR</string>
+</resources>
